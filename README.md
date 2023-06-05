@@ -6,7 +6,7 @@
 
  I tested it only with png and jpeg files
 
- It seems that python automatically sorts colors by chroma when you give it an array of rgb pixels, but I plan to add different ways of sorting, like sort by saturation or by a specific color
+ It seems that python automatically sorts colors by chroma when you give it an array of rgb pixels to sort, but I plan to add different ways of sorting, like sort by saturation or by a specific color
 
  Requires [Pillow Python Imaging Library (Fork)](https://github.com/python-pillow/Pillow)
  
